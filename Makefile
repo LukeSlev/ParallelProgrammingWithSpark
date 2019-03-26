@@ -9,7 +9,7 @@
 #        make clean 	     // remove unneeded files
 # ------------------------------------------------------------
 
-target := lab4
+target := lab5
 allFiles := Makefile datatrim.c web-Stanford.txt
 objects :=
 headers :=
